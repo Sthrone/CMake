@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/CMake/Primer02/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/CMake/Primer02/build/CMakeFiles/testStudent.dir
+/home/ubuntu/Desktop/CMake/Primer02/build/CMakeFiles/edit_cache.dir

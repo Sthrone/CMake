@@ -1,0 +1,7 @@
+/home/ubuntu/Desktop/CMake/Primer03/build/CMakeFiles/install/strip.dir
+/home/ubuntu/Desktop/CMake/Primer03/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/CMake/Primer03/build/CMakeFiles/student.dir
+/home/ubuntu/Desktop/CMake/Primer03/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/CMake/Primer03/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/Desktop/CMake/Primer03/build/CMakeFiles/install/local.dir
+/home/ubuntu/Desktop/CMake/Primer03/build/CMakeFiles/install.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Desktop/CMake/Primer03/include/Student.h
+string
+-
+
+/home/ubuntu/Desktop/CMake/Primer04/main.cpp
+Student.h
+/home/ubuntu/Desktop/CMake/Primer04/Student.h
+

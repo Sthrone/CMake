@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/libtest.dir/main.cpp.o  -o libtest  -L/home/ubuntu/Desktop/CMake/Primer03/build -Wl,-rpath,/home/ubuntu/Desktop/CMake/Primer03/build -lstudent 

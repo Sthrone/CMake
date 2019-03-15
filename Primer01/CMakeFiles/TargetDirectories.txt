@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/CMake/Primer01/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/CMake/Primer01/CMakeFiles/imi_pozdrav.dir
+/home/ubuntu/Desktop/CMake/Primer01/CMakeFiles/edit_cache.dir

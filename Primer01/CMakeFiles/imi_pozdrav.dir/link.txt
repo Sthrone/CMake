@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/imi_pozdrav.dir/Pozdrav.cpp.o  -o imi_pozdrav 
