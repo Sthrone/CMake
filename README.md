@@ -16,10 +16,9 @@ spoljašnje zavisnosti, kao i kako se rešava postojanje hijerarhije direktoriju
 
 U direktorijumu Primer03 nalazi se izgrađen projekat (build), izvorni kod (src), header fajlovi (include) i CMake build definicija 
 (CMakeLists.txt) za poglavlje "Build dinamičke biblioteke" u članku. Ideja primera jeste da pokaže kako se obavlja build 
-projekta u kojem se, od naznačenih izvornih fajlova, izgrađuje dinamička biblioteka, koja se zatim instalira na zadatom mestu u sistemu.
+projekta u kojem se, od naznačenih izvornih fajlova, izgrađuje dinamička biblioteka, koja se zatim instalira na zadatoj lokaciji u sistemu.
 
 - Primer04
 
 U direktorijumu Primer04 nalazi se izgrađen projekat (build), izvorni kod programa (main.cpp) i CMake build definicija (CMakeLists.txt) 
-za poglavlje "Upotreba biblioteka" u članku. Ideja primera jeste da pokaže kako se kreirana biblioteka iz prethodnog primera može linkovati,  
-i na taj način upotrebiti u nekom drugom projektu.
+za poglavlje "Upotreba biblioteka" u članku. Ideja primera jeste da pokaže kako se kreirana biblioteka iz prethodnog primera može linkovati, i na taj način upotrebiti u nekom drugom projektu.
